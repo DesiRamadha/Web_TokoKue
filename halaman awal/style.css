@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+.bg-yellow {
+    background-color: rgb(207, 148, 54);
+}
+
+*{
+    font-family: sans-serif;
+}
+
+.bg-top{
+    background-size: cover;
+    padding: 100px 0 550px 0;
+    color: aliceblue;
+}
+.bg-top-1{
+    background-image: url("https://images.pexels.com/photos/907142/pexels-photo-907142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+}
+.bg-top-2{
+    background-image: url("https://images.pexels.com/photos/342020/pexels-photo-342020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+}
+.bg-top-3{
+    background-image: url("https://images.pexels.com/photos/6277/food-sweet-christmas-xmas.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+}
+.bg-top h1{
+    font-size: 75 px;
+}
+body{
+    background-color:rgb(245, 230, 192);
+} 
+footer{
+    background-color:  rgb(207, 148, 54);
+}
+footer a{
+    color: antiquewhite;
+}
